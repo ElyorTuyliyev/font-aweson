@@ -1,0 +1,256 @@
+body {
+  margin: 0 auto;
+}
+.contenir {
+  max-width: 1760px;
+  margin: 0 auto;
+}
+.user-home {
+  width: 100%;
+  height: 150vh;
+  background-color: yellow;
+  padding-left: 120px;
+  padding-top: 150px;
+}
+.user-go {
+  width: 1250px;
+  height: 900px;
+  background-color: white;
+  border-radius: 10px;
+}
+.user10 {
+  margin-left: 40px;
+  padding-top: 30px;
+}
+.user {
+  font-size: 35px;
+}
+.user-hove {
+  text-decoration: none;
+  color: rgb(94, 87, 87);
+}
+.user-hove:hover {
+  color: blue;
+}
+.link-css {
+  color: rgb(207, 203, 203);
+  font-size: 20px;
+  margin-left: 20px;
+}
+.Unicode {
+  margin-left: 810px;
+  font-size: 18px;
+  color: rgb(156, 165, 175);
+}
+.f007 {
+  margin-left: 10px;
+  font-family: "Courier New", Courier, monospace;
+  text-decoration: none;
+  font-size: 14px;
+}
+.Glyph {
+  margin-left: 30px;
+  font-size: 17px;
+  color: rgb(177, 187, 197);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.user-css {
+  margin-left: 10px;
+  font-size: 20px;
+  color: rgb(73, 73, 230);
+}
+.xmark-css {
+  font-size: 30px;
+  position: relative;
+  top: -45px;
+  left: 20px;
+  color: rgb(67, 93, 118);
+}
+.xmark-css:hover {
+  color: red;
+}
+.bloc100 {
+  width: 1170px;
+  height: 15vh;
+  border: none;
+  background-color: rgb(229 219 255);
+  border-radius: 10px;
+  margin-top: 50px;
+}
+.xmark-blok {
+  font-size: 25px;
+  color: rgb(98, 98, 177);
+  position: relative;
+  left: 1158px;
+  top: -12px;
+}
+.xmark-blok:hover {
+  color: red;
+}
+.user-big {
+  float: left;
+  width: 560px;
+  height: 45vh;
+  border: 2px solid rgb(240 241 243);
+  border-radius: 10px;
+
+  margin-left: 40px;
+  margin-top: 30px;
+}
+.da-user {
+  font-size: 200px;
+  color: rgb(30 48 80);
+  position: relative;
+  left: 170px;
+  top: 50px;
+}
+.da-moon {
+  font-size: 20px;
+  position: relative;
+  top: 140px;
+  left: 20px;
+  color: rgb(116 192 252);
+}
+.folder-home {
+  margin-top: 30px;
+}
+.folder {
+  font-size: 20px;
+  margin-left: 30px;
+}
+.business {
+  text-decoration: dashed;
+  margin-left: 20px;
+  font-size: 17px;
+  color: rgb(100, 100, 241);
+}
+.business:hover {
+  color: rgb(3, 3, 84);
+}
+.maclarin {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 200px;
+  height: 50px;
+  padding: 10px 30px;
+  border-radius: 10px;
+  border: 2px solid rgb(201, 199, 199);
+}
+.maclarin:active {
+  outline-color: blue;
+}
+
+.dddd1 {
+  margin-left: 20px;
+  width: 75px;
+  height: 50px;
+  border-radius: 10px 0px 0px 10px;
+  border: 2px solid rgb(195 198 209);
+  background-color: rgb(195 198 209);
+}
+.dddd2 {
+  margin-left: -6px;
+  width: 70px;
+  height: 50px;
+
+  border: 2px solid rgb(195 198 209);
+  background-color: white;
+}
+.dddd3 {
+  margin-left: -6px;
+  width: 75px;
+  height: 50px;
+
+  border: 2px solid rgb(195 198 209);
+  background-color: white;
+}
+.dddd4 {
+  margin-left: -6px;
+  width: 75px;
+  height: 50px;
+  border-radius: 0px 10px 10px 0px;
+  border: 2px solid rgb(195, 198, 209);
+  background-color: white;
+}
+.user-fa {
+  font-size: 20px;
+  color: black;
+}
+.animatoin {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 280px;
+  height: 50px;
+  padding: 10px 30px;
+  border-radius: 10px;
+  border: 2px solid rgb(201, 199, 199);
+}
+.color {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 13px 140px;
+  border-radius: 10px;
+  border: 2px solid rgb(201, 199, 199);
+  background-color: blue;
+}
+.icon-all {
+  padding-top: 40px;
+}
+.download {
+  padding: 20px 30px;
+  font-size: 20px;
+  color: rgb(128, 128, 217);
+  width: 50px;
+  height: 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-left: 30px;
+  color: rgb(80, 77, 77);
+}
+.download:hover {
+  background-color: rgb(202, 207, 212);
+}
+.yulduz {
+  padding: 20px 30px;
+  font-size: 20px;
+  color: rgb(128, 128, 217);
+  width: 150px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-left: 30px;
+  color: rgb(73, 69, 69);
+}
+.yulduz:hover {
+  background-color: rgb(202, 207, 212);
+}
+.raketa {
+  padding: 20px 30px;
+  font-size: 20px;
+  color: rgb(128, 128, 217);
+  width: 150px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-left: 30px;
+  color: rgb(88, 86, 86);
+  background-color: #ffd43b;
+}
+.raketa:hover {
+  background-color: rgb(156, 126, 5);
+}
+.text111 {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(121, 114, 114);
+}
+.icon-nic {
+  width: 1250px;
+  height: 30vh;
+  border: 1px solid;
+  background-color: blue;
+}

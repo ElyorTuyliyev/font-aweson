@@ -1,0 +1,387 @@
+body {
+  margin: 0 auto;
+}
+.contenir {
+  max-width: 1760px;
+  margin: 0 auto;
+}
+/*nav stayl start*/
+
+.header-nav {
+  padding: 30px;
+}
+.ccs {
+  text-decoration: none;
+  color: rgb(97, 109, 138);
+  font-size: 25px;
+  margin-left: 190px;
+}
+.ccs:hover {
+  color: aqua;
+}
+.Start {
+  text-decoration: none;
+  color: rgb(97, 109, 138);
+  font-size: 17px;
+  margin-left: 75px;
+}
+.Start:hover {
+  color: aqua;
+}
+.fa-magnifying-glass {
+  text-decoration: none;
+  color: rgb(97, 109, 138);
+  font-size: 17px;
+  margin-left: 45px;
+}
+.fa-magnifying-glass:hover {
+  color: aqua;
+}
+.Icons {
+  text-decoration: none;
+  color: rgb(97, 109, 138);
+  font-size: 17px;
+  margin-left: 45px;
+}
+.Icons:hover {
+  color: aqua;
+}
+.Docs {
+  text-decoration: none;
+  color: rgb(97, 109, 138);
+  font-size: 17px;
+  margin-left: 44px;
+}
+.Docs:hover {
+  color: aqua;
+}
+.plans {
+  text-decoration: none;
+  color: rgb(97, 109, 138);
+  font-size: 17px;
+  margin-left: 45px;
+}
+.plans:hover {
+  color: aqua;
+}
+.Support {
+  text-decoration: none;
+  color: rgb(97, 109, 138);
+  font-size: 17px;
+  margin-left: 45px;
+}
+.Support:hover {
+  color: aqua;
+}
+.Podcast {
+  text-decoration: none;
+  color: rgb(97, 109, 138);
+  font-size: 17px;
+  margin-left: 45px;
+}
+.Podcast:hover {
+  color: aqua;
+}
+.quit {
+  text-align: none;
+  color: rgb(97, 109, 138);
+  font-size: 25px;
+  margin-left: 400px;
+}
+.quit:hover {
+  color: aqua;
+}
+
+/* nav stayl finish */
+
+/*section1 stayl start*/
+.home {
+  width: 100%;
+  height: 50px;
+  margin-top: 30px;
+}
+.home-search {
+  width: 900px;
+  height: 60px;
+  border-radius: 30px;
+  padding-left: 40px;
+  border: 2px solid black;
+  outline-color: rgb(77, 77, 239);
+  margin-left: 300px;
+}
+.home-form-Icon {
+  position: relative;
+  top: 2px;
+  left: 335px;
+}
+/*section1 style finish*/
+/*section2 start */
+.icon2 {
+  width: 100%;
+
+  margin-top: 100px;
+}
+.Classic1 {
+  width: 100px;
+  height: 90px;
+  padding: 10px 20px;
+  margin-left: 120px;
+  border: none;
+  background-color: white;
+  color: rgb(24 49 83);
+}
+.Classic {
+  width: 100px;
+  height: 90px;
+  padding: 10px 20px;
+  margin-left: 25px;
+  border: none;
+  background-color: white;
+  color: rgb(24 49 83);
+}
+.Classic:hover {
+  text-decoration: underline 5px solid blue;
+  color: aqua;
+}
+.Classic1:hover {
+  text-decoration: underline 5px solid blue;
+  color: aqua;
+}
+.class-styl {
+  font-size: 30px;
+}
+
+.Sharp-style {
+  font-size: 30px;
+}
+.Brands-styl {
+  font-size: 30px;
+}
+.free-style {
+  font-size: 30px;
+}
+.windovs-1 {
+  margin-left: 180px;
+  font-size: 20px;
+  color: rgb(24 49 83);
+}
+.windovs-2 {
+  font-size: 20px;
+  margin-left: 30px;
+  color: rgb(24 49 83);
+}
+.fa-list1 {
+  font-size: 20px;
+  margin-left: 30px;
+  color: rgb(26, 112, 232);
+}
+.all1 {
+  margin-left: 50px;
+  padding-left: 10px;
+  border-radius: 10px;
+  border: 2px solid rgb(193, 183, 183);
+  font-size: 15px;
+  width: 170px;
+  height: 50px;
+}
+
+.icons-wrapper {
+  background: rgb(240 241 243);
+}
+.icons-seidebar {
+  height: 230vh;
+  width: 250px;
+  float: left;
+  margin-right: 20px;
+}
+.icons-card-icon {
+  font-size: 50px;
+  margin-top: 10px;
+}
+.icons-card {
+  width: 180px;
+  height: 160px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+  color: rgb(24 49 83);
+}
+.icons-card:hover {
+  background-color: rgb(255 212 59);
+}
+
+.aside-bar {
+  margin-left: 50px;
+}
+.solid6440 {
+  margin-left: 50px;
+}
+
+.Icons26233 {
+  padding-top: 10px;
+  margin-left: 40px;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.pro {
+  padding: 4px 15px;
+  width: 20px;
+  height: 15px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(255 212 59);
+  position: relative;
+  top: -130px;
+}
+.page {
+  margin-left: 1100px;
+}
+.hundert {
+  width: 100%;
+  height: 20vh;
+  margin-top: 80px;
+  margin-left: 700px;
+}
+.ten {
+  width: 50px;
+  height: 60px;
+  border-radius: 10px;
+  border: none;
+  font-size: 15px;
+  background-color: rgb(240 241 243);
+}
+.ten-next {
+  width: 70px;
+  height: 60px;
+  border-radius: 10px;
+  border: none;
+  font-size: 15px;
+  background-color: rgb(240 241 243);
+}
+.ten-next:hover {
+  width: 70px;
+  height: 60px;
+  border-radius: 10px;
+  border: none;
+  font-size: 15px;
+  background-color: rgb(110, 136, 157);
+}
+.ten:hover {
+  width: 50px;
+  height: 60px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(110, 136, 157);
+}
+.aside-blok1 {
+  margin-top: 50px;
+}
+.aside-blok {
+  width: 220px;
+  height: 280px;
+  background-color: rgb(204, 204, 228);
+  border-radius: 10px;
+}
+.x1 {
+  color: #356fd4;
+  font-size: 25px;
+  position: relative;
+  left: 210px;
+  top: -290px;
+}
+.x1:active {
+  color: red;
+}
+
+.aside-blok-in {
+  margin-left: 35px;
+  width: 150px;
+  height: 120px;
+  border: 2px solid white;
+  position: relative;
+  top: 20px;
+}
+.img-in {
+  width: 149px;
+  height: 120px;
+}
+.a-in {
+  text-decoration: none;
+}
+.text-in {
+  font-size: 15px;
+  color: black;
+  text-decoration: none;
+}
+.text-in:hover {
+  color: blue;
+}
+.via {
+  color: rgb(70, 70, 70);
+}
+.via:hover {
+  color: blue;
+}
+.style-text {
+  color: rgb(97 109 138);
+  font-size: 13px;
+  margin-left: -40px;
+}
+.solid-text {
+  padding: 10px 20px;
+  width: 190px;
+  height: 20px;
+
+  border-radius: 5px;
+  margin-left: -10px;
+}
+.solid-text:hover {
+  padding: 10px 20px;
+  width: 190px;
+  height: 20px;
+  border: 2px solid rgb(149, 137, 137);
+  border-radius: 5px;
+  margin-left: -10px;
+}
+
+.text-home {
+  margin-top: 20px;
+}
+.t6440 {
+  margin-left: 50px;
+}
+/*section2 finish  */
+/* footer stayle start */
+.foooter-blok {
+  width: 100%;
+  height: 60vh;
+  background-color: #183153;
+}
+.margin {
+  margin-left: 210px;
+}
+.footer-css {
+  font-size: 28px;
+
+  padding-top: 50px;
+  color: white;
+}
+.footer-text {
+  padding-top: 50px;
+  color: white;
+  font-size: 15px;
+}
+.Privacy {
+  margin-top: 30px;
+  font-size: 18px;
+}
+.Refunds {
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+}
+
+/* /footer stayle finish */
